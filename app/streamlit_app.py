@@ -13,8 +13,8 @@ import streamlit as st
 
 API_URL = os.environ.get("RAG_API_URL", "http://localhost:8000")
 
-st.set_page_config(page_title="RAG Document QA", page_icon="📄")
-st.title("📄 RAG Document QA")
+st.set_page_config(page_title="RAG Document QA", page_icon="document")
+st.title("RAG Document QA")
 st.caption("Upload a PDF or text document, then ask questions grounded in its content.")
 
 if "doc_id" not in st.session_state:
