@@ -1,0 +1,17 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+rank-bm25
+google-genai
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+pydantic
+numpy
+requests
+pytest
+
+# Only needed for the Colab demo (tunneling FastAPI/Streamlit to a public URL)
+pyngrok

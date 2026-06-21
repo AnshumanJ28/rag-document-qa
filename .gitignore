@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+index_store/*.faiss
+index_store/*.meta.json
+.env
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/

@@ -1,0 +1,43 @@
+Project Atlas — Internal R&D Report
+
+Overview
+Project Atlas is an internal research initiative exploring low-power
+sensor networks for precision agriculture. The project began in
+February 2025 and is led by Dr. Elena Vasquez, with a core team of
+seven engineers split between the Austin and Lisbon offices. The
+total approved budget for the project is 1.8 million dollars over
+eighteen months.
+
+Methodology
+The team deployed 240 prototype soil sensors across three test farms
+in central Texas. Each sensor measures soil moisture, temperature, and
+nitrogen levels every fifteen minutes and transmits readings over a
+LoRaWAN network with an average range of 6 kilometers. Battery life on
+the third-generation sensor board reached 14 months under field
+conditions, up from 5 months on the first prototype.
+
+Results
+Early results show a 22 percent reduction in water usage on fields
+using Atlas-guided irrigation schedules compared to fields using
+traditional fixed-schedule irrigation. Crop yield on the test plots
+increased by 9 percent during the Spring 2026 growing season. False
+positive readings, where a sensor reported abnormal nitrogen levels
+that did not reflect true soil conditions, dropped from 12 percent in
+the first sensor generation to under 3 percent in the third
+generation after a firmware update in March 2026.
+
+Team and Operations
+The Austin team focuses on hardware design and field testing, while
+the Lisbon team handles the backend data pipeline and the farmer-facing
+mobile app. The mobile app currently has 340 active farmer accounts
+across four states. Customer support response time averages 6 hours
+during planting season and 18 hours otherwise.
+
+Risks and Next Steps
+The primary technical risk is sensor corrosion in high-humidity
+conditions, which caused an 8 percent failure rate in the Gulf Coast
+test plots during the first year. A redesigned enclosure is currently
+in testing and is expected to reduce corrosion-related failures to
+under 2 percent. The team plans to expand to ten additional farms by
+the end of 2026 and is evaluating a partnership with two regional
+agricultural cooperatives to fund that expansion.

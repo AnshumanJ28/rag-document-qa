@@ -1,0 +1,26 @@
+Acme Robotics — Q3 2026 Internal Summary
+
+Financial Performance
+Acme Robotics reported revenue of 82 million dollars in Q3 2026, an increase
+of 14 percent compared to the same quarter last year. Operating costs were
+reduced by 6 percent following the consolidation of two regional warehouses.
+Gross margin improved to 41 percent, up from 37 percent in Q2 2026.
+
+Product Updates
+The company shipped its third-generation warehouse picking robot, the
+Acme P3, in August 2026. The P3 line uses a new lidar-based navigation
+system that reduced average pick time from 9.2 seconds to 6.8 seconds per
+item. Customer pilots are currently running in four distribution centers
+across Texas and Ohio.
+
+Hiring and Operations
+Headcount grew from 410 to 462 employees during the quarter, with most new
+hires joining the firmware and field-service teams. The company opened a
+new field-service hub in Columbus, Ohio to support the growing number of
+P3 deployments in the Midwest.
+
+Risks and Outlook
+Management flagged ongoing supply constraints on lidar sensors as the
+primary risk to Q4 shipment targets. The company expects Q4 revenue to grow
+between 8 and 12 percent year over year, assuming sensor supply stabilizes
+by November 2026.
